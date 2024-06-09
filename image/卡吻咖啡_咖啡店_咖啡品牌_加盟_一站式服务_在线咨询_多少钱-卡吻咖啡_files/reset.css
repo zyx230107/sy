@@ -1,0 +1,20 @@
+body,h1,h2,h3,h4,p,dl,dd,ul,ol,form,input,textarea,th,td,select{margin: 0;padding: 0;}
+button{background: none;border: none;}
+em{font-style: normal;}
+li{list-style: none;vertical-align: top;}
+a,a:hover{text-decoration: none;}
+img{border: none;vertical-align: middle;max-width: 100%;}
+table{border-collapse: collapse;}
+input,textarea{outline: none;}
+input{
+    background:none;
+    outline:none;
+    border:none;
+}
+textarea{resize:none;overflow: auto;}
+body{font-size:14px;font-family: Microsoft YaHei, Arial, Helvetica, sans-serif,'微软雅黑';color: #333333;}
+html{font-size:14px;}
+*{margin: 0;padding: 0;}
+.clear{clear: both;position: static}
+a:focus{text-decoration: none;}
+
